@@ -1,0 +1,5 @@
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\Test\ControlWorkFirst\Debug\ControlWorkFirst.vcxprojAssemblyReference.cache
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\Test\ControlWorkFirst\Debug\ControlWorkFirst.exe
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\Test\ControlWorkFirst\Debug\ControlWorkFirst.pdb
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\Test\ControlWorkFirst\Debug\ControlWorkFirst.MyForm.resources
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\Test\ControlWorkFirst\Debug\ControlWorkFirst.vcxproj.GenerateResource.cache

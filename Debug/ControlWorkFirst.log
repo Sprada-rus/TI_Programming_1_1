@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\Test\ControlWorkFirst\MyForm.h(232,19): warning C4804: <: небезопасное использование типа "bool" в операции
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ControlWorkFirst.vcxproj -> C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\Test\ControlWorkFirst\Debug\ControlWorkFirst.exe
